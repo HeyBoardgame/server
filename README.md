@@ -98,4 +98,4 @@ http://13.125.211.203:8080/api/v1
 ## 📑 Docs
 
 - [API Documentation](https://documenter.getpostman.com/view/19369137/2s9Xy6rqXr)
-- [ER Diagram](https://www.erdcloud.com/d/ciXutL5fA6iMEyBuy)
+- [ER Diagram](https://www.erdcloud.com/d/xFGBfi6MxGfqaKLgo)
