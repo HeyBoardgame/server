@@ -4,6 +4,7 @@
 
 - [About The Project](#-about-the-project)
 - [Tech Stack](#-tech-stack)
+- [System Architecture](#-system-architecture)
 - [Key Features](#-key-features)
 - [Contribution](#-contribution)
 - [Docs](#-docs)
@@ -36,6 +37,10 @@
 
 ### Communication
 <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
+## 🏗️ System Architecture
+
+![여보게 시스템 아키텍처 다이어그램](https://github.com/HeyBoardgame/server/assets/67736320/f99c80c7-8903-4d51-997f-67393f301baf)
 
 ## ✨ Key Features
 
